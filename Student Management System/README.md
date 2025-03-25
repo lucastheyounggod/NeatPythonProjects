@@ -23,5 +23,5 @@ A student information management system that stores student details, grades, and
    ```
 
 ### Technologies Used
-- Python 3.x
+- Python 3
 - SQLite (for student records)
