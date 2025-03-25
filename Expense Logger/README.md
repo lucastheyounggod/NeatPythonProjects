@@ -1,21 +1,27 @@
-Title- Expense Logger
+## Expense Logger
 
-Description:
+### Description
 A simple expense tracking system to log and analyze daily expenses.
 
-Features:
+### Features
 - Add, edit, and delete expenses
 - Categorize expenses
 - Generate monthly expense summaries
 
-Installation:
-- Clone the repository:
-  - git clone https://github.com/lucastheyounggod/NeatPythonProjects.git
-- Navigate to the project folder:
-  - cd ExpenseLogger
-- Run the script:
-  - python main.py
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/lucastheyounggod/NeatPythonProjects.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd ExpenseLogger
+   ```
+3. Run the script:
+   ```sh
+   python main.py
+   ```
 
-Technologies Used:
+### Technologies Used
 - Python 3
 - SQLite (for expense records)
