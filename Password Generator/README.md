@@ -23,5 +23,5 @@ A Python script that generates strong, random passwords based on user preference
    ```
 
 ### Technologies Used
-- Python 3.x
+- Python 3
 - Random module
