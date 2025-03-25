@@ -1,22 +1,28 @@
-Title- Library Management System
+## Library Management System
 
-Description:
+### Description
 A system for managing books in a library, including borrowing, returning, and tracking overdue books.
 
-Features:
+### Features
 - Add and remove books
 - Borrow and return books
 - Track overdue books
 - Search books by title or author
 
-Installation:
-- Clone the repository:
-  - git clone https://github.com/lucastheyounggod/NeatPythonProjects.git
-- Navigate to the project folder:
-  - cd LibraryManagementSystem
-- Run the script:
-  - python main.py
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/lucastheyounggod/NeatPythonProjects.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd LibraryManagementSystem
+   ```
+3. Run the script:
+   ```sh
+   python main.py
+   ```
 
-Technologies Used:
-- Python 3.x
+### Technologies Used
+- Python 3
 - SQLite (for book records)
