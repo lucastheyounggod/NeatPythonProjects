@@ -10,7 +10,7 @@ Features:
 
 Installation:
 - Clone the repository:
-  - git clone https://github.com/yourusername/MyPythonProjects.git
+  - git clone https://github.com/lucastheyounggod/NeatPythonProjects.git
 - Navigate to the project folder:
   - cd ExpenseLogger
 - Run the script:
