@@ -1,23 +1,27 @@
-Title: Bank Account System
+## Bank Account System
 
-Description:
+### Description
 A simple bank account management system that allows users to create accounts, deposit, withdraw, and check balances.
 
-Features:
+### Features
 - Create new accounts
 - Deposit and withdraw funds
 - Check account balance
 - Transaction history tracking
 
-Installation:
-Clone the repository:
-git clone https://github.com/lucastheyounggod/NeatPythonProjects.git
+### Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/lucastheyounggod/NeatPythonProjects.git
+   ```
+2. Navigate to the project folder:
+   ```sh
+   cd BankAccountSystem
+   ```
+3. Run the script:
+   ```sh
+   python main.py
+   ```
 
-Navigate to the project folder:
-cd BankAccountSystem
-
-Run the script:
-python main.py
-
-Technologies Used:
-Python 3
+### Technologies Used
+- Python 3
